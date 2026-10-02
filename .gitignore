@@ -1,0 +1,12 @@
+# === Arquivos Temporários do Power BI ===
+# Ignora apenas sujeira e arquivos de recuperação automática
+*.tmp
+*.pbi.user
+**/msmdsrv.port.txt
+
+# === Sistema Operacional ===
+.DS_Store
+Thumbs.db
+
+# === O que NÃO ignorar (Deixe em branco ou comente se necessário) ===
+# NÃO estamos ignorando .xlsx ou .pbix aqui para que seu portfólio suba completo!
