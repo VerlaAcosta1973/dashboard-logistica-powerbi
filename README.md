@@ -1,6 +1,8 @@
 # dashboard-logistica-powerbi
-Repositório de uma empresa logística (ficticia) que resolve a grande maioria das dores de coordenar e reduzir ao máximo os custos através de análises bem estruturadas no Power Bi
+
 # Business Intelligence aplicado à Logística e Controladoria de Frotas de Carga 🚚📊
+
+Repositório de uma empresa logística (ficticia) que resolve a grande maioria das dores de coordenar e reduzir ao máximo os custos através de análises bem estruturadas no Power Bi
 
 [![GitHub](https://shields.io)](https://github.com/VerlaAcosta1973/dashboard-logistica-powerbi)
 [![LinkedIn](https://shields.io)](www.linkedin.com/in/verla-acosta-ramos)
