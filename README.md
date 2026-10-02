@@ -2,8 +2,8 @@
 Repositório de uma empresa logística (ficticia) que resolve a grande maioria das dores de coordenar e reduzir ao máximo os custos através de análises bem estruturadas no Power Bi
 # Business Intelligence aplicado à Logística e Controladoria de Frotas de Carga 🚚📊
 
-[![GitHub](https://shields.io)](https://github.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![GitHub](https://shields.io)](https://github.com/VerlaAcosta1973/dashboard-logistica-powerbi)
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/verla-acosta-ramos)
 
 ## 🎯 1. Contexto de Negócio e Objetivo
 
